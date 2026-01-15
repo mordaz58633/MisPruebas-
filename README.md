@@ -1,1 +1,1 @@
-# MisPruebas-
+# GeneradorQR
